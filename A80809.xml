@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sad news from the county of Kent, (viz) shewing how 40. armed, resolute, desperate fellows plundered Sir Nicholas Crisps house, after they had set a watch over his servants, at twelve a clock at night, July the 18. 1657. and carried them to the water-side to be transported to Dunkirk. With Sir Nicholas Crispe his escape from them upon tearmes. Sent in a letter by yong Mr. Crispe of Dover to his kinsman in London, Mr. Kathern, who desired the truth might be published to prevent mis-information.</title>
+            <author>Crisp, Henry, Mr.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80809</idno>
+            <idno type="STC">Wing C6914</idno>
+            <idno type="STC">Thomason E922_2</idno>
+            <idno type="STC">ESTC R207538</idno>
+            <idno type="EEBO-CITATION">99866582</idno>
+            <idno type="PROQUEST">99866582</idno>
+            <idno type="VID">168480</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80809)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168480)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 139:E922[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sad news from the county of Kent, (viz) shewing how 40. armed, resolute, desperate fellows plundered Sir Nicholas Crisps house, after they had set a watch over his servants, at twelve a clock at night, July the 18. 1657. and carried them to the water-side to be transported to Dunkirk. With Sir Nicholas Crispe his escape from them upon tearmes. Sent in a letter by yong Mr. Crispe of Dover to his kinsman in London, Mr. Kathern, who desired the truth might be published to prevent mis-information.</title>
+                  <author>Crisp, Henry, Mr.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Harper in Smithfield neer to the Hospital-Gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Mr. Crispe of Dover = Henry Crisp. Cf. Wing.</note>
+                  <note>Annotation on Thomason copy: "August 9".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crisp, Nicholas, --  Sir, 1599?-1666.</term>
+               <term>Kent (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168480:1" rendition="simple:additions"/>
+            <p>SAD NEWS from the County of KENT, <hi>(VIZ)</hi> Shewing how 40. Armed, Reſolute, Deſperate Fellows plundered Sir <hi>NICHOLAS CRISPS</hi> Houſe, after they had ſet a watch over his Servants, at Twelve a clock at night, <hi>July</hi> the 18. 1657. and carried them to the water-ſide to be tranſ<g ref="char:EOLhyphen"/>ported to <hi>Dunkirk.</hi>
+            </p>
+            <p>With Sir <hi>Nicholas Criſpe</hi> his eſcape from them upon tearmes.</p>
+            <p>Sent in a Letter by yong Mr. <hi>Criſpe</hi> of <hi>DOVER</hi> to his Kinſman in <hi>London,</hi> Mr. <hi>Kathern,</hi> who de<g ref="char:EOLhyphen"/>ſired the truth might be publiſhed to pre<g ref="char:EOLhyphen"/>vent miſ-information.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Harper</hi> in Smithfield neer to the Hoſpital-Gate. 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168480:2"/>
+            <pb n="3" facs="tcp:168480:2"/>
+            <head>SAD NEWES from the County of <hi>KENT.</hi> Sent in a Letter by young Mr. <hi>Criſpe</hi> of <hi>Dover,</hi> to his Kinſman in <hi>London.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>N that famous and fertile Soyl of <hi>Kent,</hi> a neer neighbour to the City of <hi>London,</hi> and a hand-maid to furniſh her with all Commodities which ſhe in a plentifull manner is poſſeſt withall.</p>
+            <p>In the Iſle of <hi>Tennet,</hi> a houſe called by the name of <hi>Queax,</hi> about eight miles from <hi>Dover</hi> lived a worthy Knight, and a good Benefactor to the poor, famous for his acts of piety and Charity, and therefore the more envied and wronged, as by the abominable outrage, and violent actions committed upon his houſe, himſelf, and his goods, the like hath not been for ſuch a bold deſperate deſign ſcarce committed in our Age, unleſs though former<g ref="char:EOLhyphen"/>ly in the late Kings dayes the Turkiſh Pyrats ſet in <hi>Cornwall</hi> a part of their Mahumetan Seamen, and did for two or three Families ſweep them all away, children ſucking at their mothers breaſts, and forſt them into their Ships to Sea with them, robbing and plundring their houſes of Goods, and
+<pb n="4" facs="tcp:168480:3"/>their fields of Cattel. Now here I preſent you with a Letter written from a worthy Gentleman at <hi>Dover,</hi> neer ally'd and kin to the worthy Sir <hi>Nicholas Criſpe,</hi> the houſe going by the name of <hi>Queax;</hi> about eight mile from <hi>Dover,</hi> and hath a creek of water from the Sea, which uſeth to ebb and flow with the tide, and of this creek theſe mercileſs men (villians I may ſay) made uſe, in a ſhallop, to the number of forty reſolute renegadoes, entred Sir <hi>Nicholas Criſpe</hi> his houſe, breaking open the doors, ſetting a watch over the ſervants urging the fearefull maid ſervant, elſe to deprive her of life preſently, if ſhe would not bring them to Sir <hi>Nicholas</hi> his Chamber, and his aged Uncles, for the feareful Maid not knowing their intents brings them to the two Chamber doors where the Gentlemen going to take their naturall reſt without the leaſt thought of any miſcheif to any; but by a deſperate deboiſt company of land Pirates I am ſure notorious Robbers, Sir <hi>Nicholas</hi> had his houſe plundered, himſelf amazed, and perſon ſurpriſed, with the aged Gentleman his Uncle, whom they have forced to <hi>Bridges</hi> in <hi>Flanders,</hi> and by way of entreaty upon a Parlie did releaſe Sir <hi>Nicholas,</hi> but upon condicon, that he ſhould ſend 1000. pound for the old Gentleman his releaſe, elſe he to be detained there priſoner at <hi>Dunkirke,</hi> which can<g ref="char:EOLhyphen"/>not be but a great griefe to that worthy Gentlewoman hie Lady and the reſt of his freinds; this old Gentleman thats carried away being miſt for his charitable releeving of many poor already: Oh let every honeſt heart deſire of the Lord that theſe either forreign or do meſtick Thieves and Robbers may be found out, for the report of people is gene<g ref="char:EOLhyphen"/>rall, that they, or ſome of them muſt formerly know the houſe or way unto it very well.</p>
+            <p>And therefore, Oh diſcontented party, leave off the uſe of ſuch abhorred actions, which are in the ſight of God and good men an abbomination; Gods command is thou ſhalt not ſteal: The Levitical Law ſaith he that ſtealeth ſhall re<g ref="char:EOLhyphen"/>ſtore four fould. Many theives on earth Rob themſelves of the joyes of Heaven: Many well in good health this day, to morrow ſick, the third day in the grave; oh <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>areleſs
+<pb n="5" facs="tcp:168480:3"/>Chriſtian what is the glory of this World, but a flower that continueth for a little ſeaſon? and then vaniſheth away, where there is no remembrance where his place was; therefore grant us all grace to live ſo here, to keep our ſelves unſpotted from the world, that we may work out our ſalvation with fear and trembling, and by the alone merits, death, and paſſion of our Crucified Lord Jeſus, attain to that eternall Kingdome which is endleſſe, that he hath purchaſed to all them that love him. <hi>Amen.</hi>
+            </p>
+            <p>Hereafter followeth a Copie of a Letter ſent from M. <hi>Criſpe</hi> the yonger from <hi>Dover,</hi> which is 8. miles from Sir <hi>Nic. Criſps</hi> houſe called <hi>Queax,</hi> which is about a mile or more diſtant from any Town in <hi>Kent.</hi>
+            </p>
+            <p>Directed to his Kinſman and lo<g ref="char:EOLhyphen"/>ving friend, Mr. <hi>Kathern,</hi> Porter of Ludgate.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="6" facs="tcp:168480:4"/>
+                  <head>Superſciption.</head>
+                  <head type="sub">For my loving Couſin <hi>Clement Ka<g ref="char:EOLhyphen"/>therns,</hi> Porter of <hi>Ludgate,</hi> at his houſe in Cradle-Alley, <hi>London.</hi>
+                  </head>
+                  <opener>
+                     <salute>Couſin Katherns,</salute>
+                  </opener>
+                  <p>MY kind love remembred unto you and my Couſin your good wife; I know you have heard of that ſad newes from <hi>Queax,</hi> the manner thus; Upon the 18. of July laſt paſt there came about 40. men well armed with Carbine, Piſtol and Sword, and Pole<g ref="char:EOLhyphen"/>ax every man there, it is thought they came from <hi>Dunkirke,</hi> thus comming to the houſe they quickly broke the lock of the outward gate, ſo entring into the outward court, they ſe<g ref="char:EOLhyphen"/>cured all the ſervants lay without doors, then came to the dwelling houſe and knocked very lowd, one asking who was there, being about 12 a clock at night, they told him they muſt come in, and the partie that ſpake to them being but new laid down in his cloathes, before he could come down with four blowes at the hall door, with a two-hand Sledg the door gave way, and entred the hall before him, ſecured him and the reſt of the ſervants immediately that lay within the houſe, then cauſed the maid to ſhew them my Uncles Chamber and Sir <hi>Nich<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>laſes,</hi> when they were entred there, they told them they wanted money, and
+<pb n="7" facs="tcp:168480:4"/>that they knew they well could ſupply their want, which was done after three hours time in the Plundering the houſe, and had what they could get, they then told my Uncle and Sir <hi>Nicholas,</hi> that they muſt go along with them, and to that purpoſe carried the Coach-man to put horſes in the Coach to carry their Plunder, and Uncle, and Sir <hi>Nicholas</hi> to the water-ſide, and upon the way they had a Parlie with Sir <hi>Nicholas</hi> about leaving him behinde, it was agreed immediatly that he ingaging to pay to them 1000. pound in 28. dayes time at <hi>Bridges</hi> to one they na<g ref="char:EOLhyphen"/>med; then he ſhould be free to come home again, which was done: So Sir <hi>Nicholas</hi> returned home again, but my old Uncle they have inhumanely carried away in his old age, and as yet we hear not any one word of the leaſt thereof how he doth or where he is.</p>
+                  <p>
+                     <hi>Thomas Smith</hi> the Butcher, went voluntarily along with him, I could not well ſooner give you this account, for we knew not the certaine truth of things till my Father came home about the middle of laſt week. My Father, wife, and ſelf preſent our kind love unto you: I am ſure if he returne not ſpeedliy we ſhall want him dearly, for he is very good to my aged parents. In haſte with thanks for all your favour I remaine.</p>
+                  <closer>
+                     <dateline>Dover, <date>27. July, 1657.</date>
+                     </dateline>
+                     <signed>Your affectionate Kinſman, to command, <hi>Henry Criſpe.</hi>
+                     </signed>
+                  </closer>
+                  <postscript>
+                     <p>I pray at your leaſure convey this Letter unto my Fa<g ref="char:EOLhyphen"/>ther-in-Law's Lodging.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <pb n="8" facs="tcp:168480:5"/>
+            <p> TO conclude, Conſider likewiſe what ſad effects and prodigious abortives this ſinful Nation hath produced of late yeares by war, yet are we not better'd, but like Iron put into the water out of the fire, to be hardned for the Judgments of God hath hardned our-hearts, in our fullneſs of bread and comtempt of his Word, every one following his own fancy in maters of Religion, ſo much, that we have almoſt loſt that ancient Proteſtant Religion, which ſo many Martyres blood did ſeale and confirm, whom our Anceſtors ſo highly advanced, but now ſo much ſlghted and contemned that many do hate the name of Proteſtant.</p>
+            <p>Now great God, ſince it hath pleaſed thy holy Name in mercy to ſheath the devouring ſword from the 3 Nations <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and that we have the In<g ref="char:EOLhyphen"/>joyment of peace agen, let them fall by the ſword that would any way ſeek to introduce it again in our days to this Na<g ref="char:EOLhyphen"/>tion, now we may praiſe the Lord that we are not troubled with burning of Towns, Plundering of Houſes, pitcht-Battells, nor flying fightings, though unhapyly a worthy, a godly, and noble Knight hath lately been ſtruck with a terible blow of it.</p>
+            <p>As tending to the danger of his life, the ſurprizall of his neer and deer kinſman, the loſſe of his goods, the frights of the good Lady, the feare and danger the poor ſervants ſuſtayned when they could not help themſelves, nor their Mr. himſelf, no not, but all let open to the height of their intended domination and deſtruction, this being the effect of War, the fruit it (produceth, at the beſt) but beggery. This diſign of their wretched act ſure muſt be begot by ſome who hath been free of the uſe of theft or Plunder, and will aſſuredly obtain his reward at the Gallowes, elſe dye deſperately by the ſword, as the Famous Thiefe of late hath done, <hi>Hinde,</hi> that had as many cuts on's head, face, and armes, as many more as he had fingers and toes twice over, yet the Gallowes was ordained his end as deſervedly.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
